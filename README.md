@@ -32,13 +32,10 @@ The project focuses on applying Data Structures and Algorithms concepts, includi
 - Distance-Based Calculations
 - Efficient Data Retrieval
 
-*Specific data structures and algorithms will be documented according to their implementation.*
 
 ## 🛠️ Technologies Used
 
-- Programming Language: [Add your language]
-- Data Structures and Algorithms
-- [Add any additional tools or libraries]
+- Programming Language: C++
 
 ## 🚀 Project Goals
 
