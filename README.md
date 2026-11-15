@@ -41,10 +41,3 @@ The project focuses on applying Data Structures and Algorithms concepts, includi
 
 The main goal is to demonstrate how fundamental DSA concepts can solve real-world problems by making emergency service information easier and faster to access.
 
-## 👥 Contributors
-
-- [Add team members' names]
-
----
-
-**Academic Project | Data Structures and Algorithms (DSA)**
